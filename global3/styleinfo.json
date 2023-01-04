@@ -1,0 +1,762 @@
+{
+  "Artificial-Intelligence": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      533,
+      418
+    ],
+    "size": 30
+  },
+  "Basic-Alignment-Theory": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      355,
+      554
+    ],
+    "size": 30
+  },
+  "Engineering-Alignment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Strategy": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Organizations": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Other": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Decision-Theory": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Inner-Alignment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Outer-Alignment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Utility-Functions": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Optimization": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Transparency-/-Interpretability": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Value-Learning": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Oracle-AI": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Iterated-Amplification-": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "AI-Boxing-": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "AI-Risk": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "AI-Timelines": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "AI-Takeoff": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "AI-Governance": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Regulation-and-AI-Risk": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Machine-Intelligence-Research-Institute": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "OpenAI": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "DeepMind": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Future-of-Humanity-Institute-": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "AI-Safety-Camp": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Machine-Learning-": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "GPT": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Language-Models": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Reinforcement-Learning": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "Research-Agendas": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      315
+    ],
+    "size": 30
+  },
+  "alignment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      738,
+      150
+    ],
+    "size": 30
+  },
+  "AIXI": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1211,
+      561
+    ],
+    "size": 30
+  },
+  "mesa-optimization": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1160,
+      627
+    ],
+    "size": 30
+  },
+  "inner-alignment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1124,
+      500
+    ],
+    "size": 30
+  },
+  "outer-alignment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      997,
+      509
+    ],
+    "size": 30
+  },
+  "intelligence-explosion": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      456,
+      88
+    ],
+    "size": 30
+  },
+  "orthogonality-thesis": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      158,
+      209
+    ],
+    "size": 30
+  },
+  "solomonoff-induction": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      260,
+      69
+    ],
+    "size": 30
+  },
+  "utility": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1190,
+      49
+    ],
+    "size": 30
+  },
+  "complexity-of-value": {
+    "node": "red",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      460,
+      640
+    ],
+    "size": 30
+  },
+  "general-intelligence": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      570,
+      148
+    ],
+    "size": 30
+  },
+  "paperclips": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      168,
+      456
+    ],
+    "size": 30
+  },
+  "unimportant": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      85,
+      135
+    ],
+    "size": 30
+  },
+  "agency-theory": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1053,
+      584
+    ],
+    "size": 30
+  },
+  "kolmogorov-complexity": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      485,
+      643
+    ],
+    "size": 30
+  },
+  "interpretability": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1238,
+      444
+    ],
+    "size": 30
+  },
+  "understanding-AI": {
+    "node": "red",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1146,
+      306
+    ],
+    "size": 30
+  },
+  "ways-to-go-wrong": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      753,
+      474
+    ],
+    "size": 30
+  },
+  "dangers": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      261,
+      130
+    ],
+    "size": 30
+  },
+  "heaven": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      340,
+      407
+    ],
+    "size": 30
+  },
+  "hell": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      162,
+      378
+    ],
+    "size": 30
+  },
+  "powerful-ai": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      384,
+      344
+    ],
+    "size": 30
+  },
+  "powerful-AI": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      372,
+      193
+    ],
+    "size": 30
+  },
+  "extinction": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      84,
+      341
+    ],
+    "size": 30
+  },
+  "S-risk": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      92,
+      431
+    ],
+    "size": 30
+  },
+  "making-AI-friendly": {
+    "node": "purple",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      535,
+      501
+    ],
+    "size": 30
+  },
+  "what-is-good-and-bad": {
+    "node": "purple",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      381,
+      484
+    ],
+    "size": 30
+  },
+  "ok-but-what-should-I-do": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      599,
+      472
+    ],
+    "size": 30
+  },
+  "motivation-productivity-studying": {
+    "node": "purple",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      737,
+      294
+    ],
+    "size": 30
+  },
+  "learning-stuff": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      650,
+      320
+    ],
+    "size": 30
+  },
+  "losing": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      272,
+      275
+    ],
+    "size": 30
+  },
+  "winning": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      411,
+      314
+    ],
+    "size": 30
+  },
+  "problems": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      472,
+      420
+    ],
+    "size": 30
+  },
+  "(practical)-how-to-solve-problems": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      593,
+      348
+    ],
+    "size": 30
+  },
+  "philosophy": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1093,
+      44
+    ],
+    "size": 30
+  },
+  "engineering": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1144,
+      118
+    ],
+    "size": 30
+  },
+  "how-to-think": {
+    "node": "purple",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      722,
+      394
+    ],
+    "size": 30
+  },
+  "teaching-AI-values": {
+    "node": "red",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      687,
+      634
+    ],
+    "size": 30
+  },
+  "controlling-AI-forcefully": {
+    "node": "purple",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      716,
+      515
+    ],
+    "size": 30
+  },
+  "RLHF": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      895,
+      638
+    ],
+    "size": 30
+  },
+  "boxing": {
+    "node": "red",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      295,
+      645
+    ],
+    "size": 30
+  },
+  "limit-capabilities": {
+    "node": "red",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      181,
+      633
+    ],
+    "size": 30
+  },
+  "to-read": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      842,
+      178
+    ],
+    "size": 30
+  },
+  "how-to-communicate": {
+    "node": "purple",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      622,
+      233
+    ],
+    "size": 30
+  },
+  "corrigibility": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      911,
+      582
+    ],
+    "size": 30
+  }
+}

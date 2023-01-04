@@ -1,0 +1,33 @@
+{
+  "why-is-app-weird": {
+    "next": [],
+    "previous": [
+      "side-notes"
+    ]
+  },
+  "for-developers": {
+    "next": [
+      "god-help-you"
+    ],
+    "previous": [
+      "side-notes"
+    ]
+  },
+  "side-notes": {
+    "next": [
+      "for-developers",
+      "why-is-app-weird"
+    ],
+    "previous": []
+  },
+  "the-tutorial": {
+    "next": [],
+    "previous": []
+  },
+  "god-help-you": {
+    "next": [],
+    "previous": [
+      "for-developers"
+    ]
+  }
+}

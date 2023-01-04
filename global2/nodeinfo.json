@@ -1,0 +1,109 @@
+{
+  "evangelism": {
+    "next": [],
+    "previous": []
+  },
+  "Artificial-Intelligence": {
+    "next": [
+      "Basic-Alignment-Theory",
+      "Engineering-Alignment",
+      "Strategy",
+      "Organizations",
+      "Other"
+    ],
+    "previous": []
+  },
+  "what-is-intelligence?": {
+    "next": [],
+    "previous": []
+  },
+  "if-convinced": {
+    "next": [
+      "known-methods-to-prevent-AI-from-killing-everyone",
+      "attempts-where-everybody-still-probably-dies",
+      "attempts-where-maybe-humanity-wins"
+    ],
+    "previous": [
+      "risk-of-bad-behavior",
+      "potential-for-power"
+    ]
+  },
+  "how-to-learn-things": {
+    "next": [],
+    "previous": []
+  },
+  "attempts-where-maybe-humanity-wins": {
+    "next": [],
+    "previous": [
+      "if-convinced"
+    ]
+  },
+  "attempts-where-everybody-still-probably-dies": {
+    "next": [],
+    "previous": [
+      "if-convinced"
+    ]
+  },
+  "NOTHING": {
+    "next": [],
+    "previous": [
+      "known-methods-to-prevent-AI-from-killing-everyone"
+    ]
+  },
+  "known-methods-to-prevent-AI-from-killing-everyone": {
+    "next": [
+      "NOTHING"
+    ],
+    "previous": [
+      "if-convinced"
+    ]
+  },
+  "types-of-Artificial-intelligence": {
+    "next": [],
+    "previous": []
+  },
+  "risk-of-bad-behavior": {
+    "next": [
+      "if-convinced"
+    ],
+    "previous": [
+      "why-care/worry-about-ai?"
+    ]
+  },
+  "potential-for-power": {
+    "next": [
+      "if-convinced"
+    ],
+    "previous": [
+      "why-care/worry-about-ai?"
+    ]
+  },
+  "emotions-happiness-misery": {
+    "next": [],
+    "previous": []
+  },
+  "what-matters?": {
+    "next": [],
+    "previous": []
+  },
+  "why-care/worry-about-ai?": {
+    "next": [
+      "potential-for-power",
+      "risk-of-bad-behavior",
+      "pain-and-death-are-bad"
+    ],
+    "previous": []
+  },
+  "motivation-productivity": {
+    "next": [],
+    "previous": []
+  },
+  "how-to-communicate": {
+    "next": [],
+    "previous": []
+  },
+  "how-to-think": {
+    "next": [],
+    "previous": []
+  }
+}

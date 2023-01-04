@@ -1,0 +1,166 @@
+{
+  "stable-equilibrium": {
+    "next": [],
+    "previous": []
+  },
+  "assumptions": {
+    "next": [],
+    "previous": []
+  },
+  "high-path-dependence": {
+    "next": [],
+    "previous": [
+      "what-happens?"
+    ]
+  },
+  "low-path-dependence": {
+    "next": [],
+    "previous": [
+      "what-happens?"
+    ]
+  },
+  "what-happens?": {
+    "next": [
+      "low-path-dependence",
+      "high-path-dependence"
+    ],
+    "previous": [
+      "crucial-moment"
+    ]
+  },
+  "crucial-moment": {
+    "next": [
+      "what-happens?"
+    ],
+    "previous": []
+  },
+  "double-descent": {
+    "next": [],
+    "previous": [
+      "core-concepts"
+    ]
+  },
+  "speed-vs-complexity": {
+    "next": [
+      "weights-vs-activations"
+    ],
+    "previous": [
+      "core-concepts",
+      "inductive-bias"
+    ]
+  },
+  "general-structure": {
+    "next": [],
+    "previous": []
+  },
+  "weights-vs-activations": {
+    "next": [],
+    "previous": [
+      "speed-vs-complexity"
+    ]
+  },
+  "knowledge-types": {
+    "next": [
+      "proxies",
+      "world-model",
+      "training-objective"
+    ],
+    "previous": [
+      "core-concepts"
+    ]
+  },
+  "training-objective": {
+    "next": [],
+    "previous": [
+      "knowledge-types"
+    ]
+  },
+  "indistinguishable": {
+    "next": [
+      "corrigible-alignment",
+      "internal-alignment",
+      "deceptive-alignment"
+    ],
+    "previous": []
+  },
+  "core-concepts": {
+    "next": [
+      "pointer",
+      "training-overhang",
+      "tradeoff",
+      "inner-alignment",
+      "corrigible-alignment",
+      "knowledge-types",
+      "internal-alignment",
+      "deceptive-alignment",
+      "inductive-bias",
+      "path-dependence",
+      "speed-vs-complexity",
+      "double-descent"
+    ],
+    "previous": []
+  },
+  "training-overhang": {
+    "next": [],
+    "previous": [
+      "core-concepts"
+    ]
+  },
+  "pointer": {
+    "next": [],
+    "previous": [
+      "core-concepts"
+    ]
+  },
+  "world-model": {
+    "next": [],
+    "previous": [
+      "knowledge-types"
+    ]
+  },
+  "proxies": {
+    "next": [],
+    "previous": [
+      "knowledge-types"
+    ]
+  },
+  "deceptive-alignment": {
+    "next": [
+      "inner-alignment]\n",
+      "outer-alignment]\n",
+      "mesa-optimization]\n\nhttps://www.lesswrong.com/posts/A9NxPTwbw6r6Awuwt/how-likely-is-deceptive-alignment\nslides:\nhttps://docs.google.com/presentation/d/1IzmmUSvhjeGhc_nc8Wd7-hB9_rSeES8JvEvKzQ8uHBI/edit"
+    ],
+    "previous": [
+      "indistinguishable",
+      "core-concepts"
+    ]
+  },
+  "path-dependence": {
+    "next": [],
+    "previous": [
+      "core-concepts"
+    ]
+  },
+  "internal-alignment": {
+    "next": [],
+    "previous": [
+      "indistinguishable",
+      "core-concepts"
+    ]
+  },
+  "corrigible-alignment": {
+    "next": [],
+    "previous": [
+      "indistinguishable",
+      "core-concepts"
+    ]
+  },
+  "inductive-bias": {
+    "next": [
+      "speed-vs-complexity"
+    ],
+    "previous": [
+      "core-concepts"
+    ]
+  }
+}

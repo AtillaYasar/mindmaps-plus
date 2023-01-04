@@ -1,0 +1,83 @@
+{
+  "artisan": {
+    "next": [],
+    "previous": [
+      "four-ways"
+    ]
+  },
+  "warrior": {
+    "next": [],
+    "previous": [
+      "four-ways"
+    ]
+  },
+  "merchant": {
+    "next": [],
+    "previous": [
+      "four-ways"
+    ]
+  },
+  "void": {
+    "next": [],
+    "previous": [
+      "five-books"
+    ]
+  },
+  "wind": {
+    "next": [],
+    "previous": [
+      "five-books"
+    ]
+  },
+  "fire": {
+    "next": [],
+    "previous": [
+      "five-books"
+    ]
+  },
+  "water": {
+    "next": [],
+    "previous": [
+      "five-books"
+    ]
+  },
+  "ground": {
+    "next": [],
+    "previous": [
+      "five-books"
+    ]
+  },
+  "five-books": {
+    "next": [
+      "ground",
+      "water",
+      "fire",
+      "wind",
+      "void"
+    ],
+    "previous": []
+  },
+  "four-ways": {
+    "next": [
+      "warrior",
+      "merchant",
+      "farmer",
+      "artisan"
+    ],
+    "previous": []
+  },
+  "general": {
+    "next": [],
+    "previous": []
+  },
+  "quotes": {
+    "next": [],
+    "previous": []
+  },
+  "farmer": {
+    "next": [],
+    "previous": [
+      "four-ways"
+    ]
+  }
+}

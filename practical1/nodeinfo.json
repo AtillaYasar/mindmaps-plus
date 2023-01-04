@@ -1,0 +1,252 @@
+{
+  "romance": {
+    "next": [],
+    "previous": [
+      "Relationship"
+    ]
+  },
+  "making-close-friends": {
+    "next": [],
+    "previous": [
+      "Relationship"
+    ]
+  },
+  "subagents": {
+    "next": [
+      "internal-double-crux"
+    ],
+    "previous": [
+      "Motivations"
+    ]
+  },
+  "internal-double-crux": {
+    "next": [],
+    "previous": [
+      "subagents",
+      "Akrasia"
+    ]
+  },
+  "happiness": {
+    "next": [],
+    "previous": [
+      "self-help-science"
+    ]
+  },
+  "study-methods": {
+    "next": [],
+    "previous": [
+      "self-help-science"
+    ]
+  },
+  "self-help-science": {
+    "next": [
+      "happiness",
+      "Practical",
+      "study-methods"
+    ],
+    "previous": [
+      "Well-being"
+    ]
+  },
+  "Practical": {
+    "next": [],
+    "previous": [
+      "self-help-science",
+      "Domains-of-Well-being"
+    ]
+  },
+  "plans-are-recursive": {
+    "next": [],
+    "previous": [
+      "Planning-&-Decision-Making"
+    ]
+  },
+  "outsource-rational-self": {
+    "next": [],
+    "previous": [
+      "Planning-&-Decision-Making"
+    ]
+  },
+  "uncertainty-slowdown": {
+    "next": [],
+    "previous": [
+      "cognitive-biases"
+    ]
+  },
+  "cognitive-biases": {
+    "next": [
+      "planning-fallacy",
+      "uncertainty-slowdown"
+    ],
+    "previous": [
+      "Motivations"
+    ]
+  },
+  "planning-fallacy": {
+    "next": [],
+    "previous": [
+      "cognitive-biases",
+      "Planning-&-Decision-Making"
+    ]
+  },
+  "buying/outsourcing": {
+    "next": [],
+    "previous": [
+      "Planning-&-Decision-Making"
+    ]
+  },
+  "Domains-of-Well-being": {
+    "next": [
+      "Emotions",
+      "Financial-Investing",
+      "Parenting",
+      "Careers",
+      "Well-being",
+      "Practical"
+    ],
+    "previous": []
+  },
+  "Skills,-Tools,-Techniques": {
+    "next": [
+      "Emotions",
+      "Software-Tools",
+      "Cryonics",
+      "Virtues-",
+      "Planning-&-Decision-Making"
+    ],
+    "previous": []
+  },
+  "Productivity": {
+    "next": [
+      "Productivity",
+      "Motivations",
+      "Akrasia",
+      "Procrastination",
+      "Willpower"
+    ],
+    "previous": [
+      "Productivity"
+    ]
+  },
+  "Interpersonal": {
+    "next": [
+      "Relationship",
+      "Conversation-",
+      "Communication-Cultures",
+      "Circling"
+    ],
+    "previous": []
+  },
+  "Emotions": {
+    "next": [],
+    "previous": [
+      "Domains-of-Well-being",
+      "Skills,-Tools,-Techniques"
+    ]
+  },
+  "Financial-Investing": {
+    "next": [],
+    "previous": [
+      "Domains-of-Well-being"
+    ]
+  },
+  "Parenting": {
+    "next": [],
+    "previous": [
+      "Domains-of-Well-being"
+    ]
+  },
+  "Careers": {
+    "next": [],
+    "previous": [
+      "Domains-of-Well-being"
+    ]
+  },
+  "Well-being": {
+    "next": [
+      "self-help-science"
+    ],
+    "previous": [
+      "Domains-of-Well-being"
+    ]
+  },
+  "Software-Tools": {
+    "next": [],
+    "previous": [
+      "Skills,-Tools,-Techniques"
+    ]
+  },
+  "Cryonics": {
+    "next": [],
+    "previous": [
+      "Skills,-Tools,-Techniques"
+    ]
+  },
+  "Virtues-": {
+    "next": [],
+    "previous": [
+      "Skills,-Tools,-Techniques"
+    ]
+  },
+  "Planning-&-Decision-Making": {
+    "next": [
+      "buying/outsourcing",
+      "planning-fallacy",
+      "plans-are-recursive",
+      "outsource-rational-self"
+    ],
+    "previous": [
+      "Skills,-Tools,-Techniques"
+    ]
+  },
+  "Motivations": {
+    "next": [
+      "subagents",
+      "cognitive-biases"
+    ],
+    "previous": [
+      "Productivity"
+    ]
+  },
+  "Akrasia": {
+    "next": [
+      "internal-double-crux"
+    ],
+    "previous": [
+      "Productivity"
+    ]
+  },
+  "Procrastination": {
+    "next": [],
+    "previous": [
+      "Productivity"
+    ]
+  },
+  "Willpower": {
+    "next": [],
+    "previous": [
+      "Productivity"
+    ]
+  },
+  "Relationship": {
+    "next": [
+      "romance",
+      "making-close-friends"
+    ],
+    "previous": [
+      "Interpersonal"
+    ]
+  },
+  "Conversation-": {
+    "next": [],
+    "previous": [
+      "Interpersonal"
+    ]
+  },
+  "Communication-Cultures": {
+    "next": [],
+    "previous": [
+      "Interpersonal"
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "corrigibility": {
+    "next": [],
+    "previous": [
+      "teaching-AI-values"
+    ]
+  },
+  "how-to-communicate": {
+    "next": [],
+    "previous": [
+      "(practical)-how-to-solve-problems"
+    ]
+  },
+  "to-read": {
+    "next": [],
+    "previous": []
+  },
+  "limit-capabilities": {
+    "next": [
+      "losing"
+    ],
+    "previous": [
+      "controlling-AI-forcefully"
+    ]
+  },
+  "boxing": {
+    "next": [
+      "losing"
+    ],
+    "previous": [
+      "controlling-AI-forcefully"
+    ]
+  },
+  "RLHF": {
+    "next": [],
+    "previous": [
+      "teaching-AI-values"
+    ]
+  },
+  "controlling-AI-forcefully": {
+    "next": [
+      "understanding-AI",
+      "boxing",
+      "limit-capabilities"
+    ],
+    "previous": [
+      "problems"
+    ]
+  },
+  "teaching-AI-values": {
+    "next": [
+      "what-is-good-and-bad",
+      "understanding-AI",
+      "RLHF",
+      "corrigibility"
+    ],
+    "previous": [
+      "making-AI-friendly"
+    ]
+  },
+  "motivation-productivity-studying": {
+    "next": [],
+    "previous": [
+      "(practical)-how-to-solve-problems"
+    ]
+  },
+  "how-to-think": {
+    "next": [],
+    "previous": [
+      "(practical)-how-to-solve-problems"
+    ]
+  },
+  "engineering": {
+    "next": [],
+    "previous": []
+  },
+  "philosophy": {
+    "next": [],
+    "previous": []
+  },
+  "(practical)-how-to-solve-problems": {
+    "next": [
+      "how-to-think",
+      "motivation-productivity-studying",
+      "how-to-communicate"
+    ],
+    "previous": [
+      "winning"
+    ]
+  },
+  "problems": {
+    "next": [
+      "what-is-good-and-bad",
+      "making-AI-friendly",
+      "controlling-AI-forcefully"
+    ],
+    "previous": [
+      "winning"
+    ]
+  },
+  "winning": {
+    "next": [
+      "heaven",
+      "problems",
+      "(practical)-how-to-solve-problems"
+    ],
+    "previous": [
+      "powerful-AI"
+    ]
+  },
+  "losing": {
+    "next": [
+      "extinction",
+      "hell"
+    ],
+    "previous": [
+      "limit-capabilities",
+      "boxing",
+      "powerful-AI"
+    ]
+  },
+  "what-is-good-and-bad": {
+    "next": [
+      "complexity-of-value"
+    ],
+    "previous": [
+      "teaching-AI-values",
+      "problems"
+    ]
+  },
+  "making-AI-friendly": {
+    "next": [
+      "understanding-AI",
+      "teaching-AI-values"
+    ],
+    "previous": [
+      "problems"
+    ]
+  },
+  "extinction": {
+    "next": [
+      "paperclips"
+    ],
+    "previous": [
+      "losing"
+    ]
+  },
+  "heaven": {
+    "next": [],
+    "previous": [
+      "winning"
+    ]
+  },
+  "hell": {
+    "next": [],
+    "previous": [
+      "losing"
+    ]
+  },
+  "powerful-AI": {
+    "next": [
+      "losing",
+      "winning"
+    ],
+    "previous": [
+      "general-intelligence",
+      "intelligence-explosion"
+    ]
+  },
+  "understanding-AI": {
+    "next": [],
+    "previous": [
+      "controlling-AI-forcefully",
+      "teaching-AI-values",
+      "making-AI-friendly"
+    ]
+  },
+  "interpretability": {
+    "next": [],
+    "previous": []
+  },
+  "agency-theory": {
+    "next": [],
+    "previous": []
+  },
+  "unimportant": {
+    "next": [],
+    "previous": []
+  },
+  "general-intelligence": {
+    "next": [
+      "powerful-AI"
+    ],
+    "previous": []
+  },
+  "complexity-of-value": {
+    "next": [],
+    "previous": [
+      "what-is-good-and-bad"
+    ]
+  },
+  "utility": {
+    "next": [],
+    "previous": []
+  },
+  "solomonoff-induction": {
+    "next": [],
+    "previous": []
+  },
+  "orthogonality-thesis": {
+    "next": [
+      "dangers"
+    ],
+    "previous": []
+  },
+  "intelligence-explosion": {
+    "next": [
+      "powerful-AI"
+    ],
+    "previous": []
+  },
+  "outer-alignment": {
+    "next": [],
+    "previous": []
+  },
+  "inner-alignment": {
+    "next": [],
+    "previous": []
+  },
+  "mesa-optimization": {
+    "next": [],
+    "previous": []
+  },
+  "AIXI": {
+    "next": [],
+    "previous": []
+  }
+}

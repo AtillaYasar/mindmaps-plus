@@ -1,0 +1,322 @@
+{
+  "mindmaps": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      539,
+      41
+    ],
+    "size": 30
+  },
+  "why-useful": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      532,
+      261
+    ],
+    "size": 30
+  },
+  "quality-features": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      333,
+      236
+    ],
+    "size": 30
+  },
+  "doodles": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      133,
+      426
+    ],
+    "size": 30
+  },
+  "reflective": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      164,
+      212
+    ],
+    "size": 30
+  },
+  "interconnected": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      434,
+      426
+    ],
+    "size": 30
+  },
+  "non-verbal": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      643,
+      631
+    ],
+    "size": 30
+  },
+  "directionality": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      122,
+      528
+    ],
+    "size": 30
+  },
+  "emphasized": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      275,
+      128
+    ],
+    "size": 30
+  },
+  "better-than-notes": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      572,
+      418
+    ],
+    "size": 30
+  },
+  "empty": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1227,
+      49
+    ],
+    "size": 30
+  },
+  "studies": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1141,
+      260
+    ],
+    "size": 30
+  },
+  "oversight": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      643,
+      259
+    ],
+    "size": 30
+  },
+  "interconnectivity": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      168,
+      271
+    ],
+    "size": 30
+  },
+  "creativity": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      637,
+      396
+    ],
+    "size": 30
+  },
+  "critical-thinking": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      650,
+      478
+    ],
+    "size": 30
+  },
+  "abstraction": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      646,
+      562
+    ],
+    "size": 30
+  },
+  "grouping": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      155,
+      341
+    ],
+    "size": 30
+  },
+  "benefits": {
+    "node": "purple",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      394,
+      323
+    ],
+    "size": 30
+  },
+  "radiant-thinking": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1238,
+      179
+    ],
+    "size": 30
+  },
+  "metacognition": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      645,
+      328
+    ],
+    "size": 30
+  },
+  "grinde": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1230,
+      252
+    ],
+    "size": 30
+  },
+  "grouped": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      610,
+      557
+    ],
+    "size": 30
+  },
+  "features": {
+    "node": "purple",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      47,
+      328
+    ],
+    "size": 30
+  },
+  "misc": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1259,
+      359
+    ],
+    "size": 30
+  },
+  "learn-faster": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      998,
+      525
+    ],
+    "size": 30
+  },
+  "understand-better": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1001,
+      426
+    ],
+    "size": 30
+  },
+  "leads-to": {
+    "node": "purple",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      859,
+      384
+    ],
+    "size": 30
+  },
+  "logical-framework": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      401,
+      444
+    ],
+    "size": 30
+  },
+  "logical-scaffold-and-flow": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      287,
+      504
+    ],
+    "size": 30
+  },
+  "emphasis": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      49,
+      575
+    ],
+    "size": 30
+  },
+  "control-cognitive-load": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      382,
+      620
+    ],
+    "size": 30
+  }
+}

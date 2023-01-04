@@ -1,0 +1,522 @@
+{
+  "idk": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      605,
+      368
+    ],
+    "size": 30
+  },
+  "understanding-AI": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      773,
+      219
+    ],
+    "size": 30
+  },
+  "interpretability": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      110,
+      385
+    ],
+    "size": 30
+  },
+  "inner-alignment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      674,
+      380
+    ],
+    "size": 30
+  },
+  "outer-alignment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      533,
+      598
+    ],
+    "size": 30
+  },
+  "RLHF": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      171,
+      619
+    ],
+    "size": 30
+  },
+  "agency-theory": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      253,
+      420
+    ],
+    "size": 30
+  },
+  "embedded-agency": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      321,
+      149
+    ],
+    "size": 30
+  },
+  "complexity-of-value": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      109,
+      561
+    ],
+    "size": 30
+  },
+  "teaching-AI-values": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      79,
+      48
+    ],
+    "size": 30
+  },
+  "mesa-optimization": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      941,
+      320
+    ],
+    "size": 30
+  },
+  "AIXI": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      366,
+      83
+    ],
+    "size": 30
+  },
+  "failing-strategies": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      202,
+      243
+    ],
+    "size": 30
+  },
+  "too-niche-or-too-hard": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      100,
+      212
+    ],
+    "size": 30
+  },
+  "decision-theory": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      355,
+      495
+    ],
+    "size": 30
+  },
+  "to-read": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      192,
+      78
+    ],
+    "size": 30
+  },
+  "general-alignment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      75,
+      140
+    ],
+    "size": 30
+  },
+  "oracle-AI": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      99,
+      458
+    ],
+    "size": 30
+  },
+  "reward-functions": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      264,
+      577
+    ],
+    "size": 30
+  },
+  "goodharts-law": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      331,
+      242
+    ],
+    "size": 30
+  },
+  "prosaic-alignment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      921,
+      541
+    ],
+    "size": 30
+  },
+  "agent-foundations": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1210,
+      459
+    ],
+    "size": 30
+  },
+  "accelerating-alignment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1014,
+      608
+    ],
+    "size": 30
+  },
+  "aesthetic-models": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1163,
+      634
+    ],
+    "size": 30
+  },
+  "alignment-minetest": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1237,
+      591
+    ],
+    "size": 30
+  },
+  "EAI-channels": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1091,
+      520
+    ],
+    "size": 30
+  },
+  "value-learning": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      385,
+      569
+    ],
+    "size": 30
+  },
+  "deceptive-alignment": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      979,
+      145
+    ],
+    "size": 30
+  },
+  "what-is-AI-thinking": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      207,
+      486
+    ],
+    "size": 30
+  },
+  "inductive-bias": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      812,
+      66
+    ],
+    "size": 30
+  },
+  "corrigible-alignment": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      708,
+      127
+    ],
+    "size": 30
+  },
+  "internal-alignment": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      712,
+      335
+    ],
+    "size": 30
+  },
+  "path-dependence": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      778,
+      389
+    ],
+    "size": 30
+  },
+  "high-path-dependence": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      613,
+      425
+    ],
+    "size": 30
+  },
+  "proxies": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1010,
+      440
+    ],
+    "size": 30
+  },
+  "world-model": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1093,
+      413
+    ],
+    "size": 30
+  },
+  "pointer": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1047,
+      80
+    ],
+    "size": 30
+  },
+  "training-overhang": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      937,
+      44
+    ],
+    "size": 30
+  },
+  "tradeoff": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1063,
+      350
+    ],
+    "size": 30
+  },
+  "core-concepts": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      891,
+      192
+    ],
+    "size": 30
+  },
+  "indistinguishable": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      548,
+      228
+    ],
+    "size": 30
+  },
+  "training-objective": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1143,
+      340
+    ],
+    "size": 30
+  },
+  "knowledge-types": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1006,
+      305
+    ],
+    "size": 30
+  },
+  "weights-vs-activations": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1214,
+      265
+    ],
+    "size": 30
+  },
+  "general-structure": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1153,
+      135
+    ],
+    "size": 30
+  },
+  "transformative-ai": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      715,
+      566
+    ],
+    "size": 30
+  },
+  "speed-vs-complexity": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1055,
+      229
+    ],
+    "size": 30
+  },
+  "tammy-alignment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      835,
+      600
+    ],
+    "size": 30
+  },
+  "double-descent": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      901,
+      419
+    ],
+    "size": 30
+  },
+  "ELK": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      757,
+      303
+    ],
+    "size": 30
+  },
+  "strategies": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      577,
+      105
+    ],
+    "size": 30
+  },
+  "tools": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      762,
+      112
+    ],
+    "size": 30
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "quotes": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      549,
+      273
+    ],
+    "size": 30
+  },
+  "gentlemen": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      551,
+      357
+    ],
+    "size": 30
+  },
+  "farmer": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1005,
+      356
+    ],
+    "size": 30
+  },
+  "artisan": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      771,
+      348
+    ],
+    "size": 30
+  },
+  "merchant": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      881,
+      367
+    ],
+    "size": 30
+  },
+  "warrior": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1118,
+      316
+    ],
+    "size": 30
+  },
+  "general": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      542,
+      409
+    ],
+    "size": 30
+  },
+  "four-ways": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      907,
+      186
+    ],
+    "size": 30
+  },
+  "five-books": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      253,
+      183
+    ],
+    "size": 30
+  },
+  "ground": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      363,
+      70
+    ],
+    "size": 30
+  },
+  "water": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      464,
+      169
+    ],
+    "size": 30
+  },
+  "fire": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      126,
+      102
+    ],
+    "size": 30
+  },
+  "wind": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      302,
+      358
+    ],
+    "size": 30
+  },
+  "void": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      129,
+      299
+    ],
+    "size": 30
+  }
+}

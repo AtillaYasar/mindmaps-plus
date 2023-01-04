@@ -1,0 +1,722 @@
+{
+  "Decision-Theory": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      494,
+      367
+    ],
+    "size": 30
+  },
+  "css": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1264,
+      40
+    ],
+    "size": 30
+  },
+  "game-theory": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      125,
+      288
+    ],
+    "size": 30
+  },
+  "robust-agents": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      37,
+      375
+    ],
+    "size": 30
+  },
+  "utility-functions": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      49,
+      302
+    ],
+    "size": 30
+  },
+  "thought-experiments": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      648,
+      143
+    ],
+    "size": 30
+  },
+  "decision-theories": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      864,
+      447
+    ],
+    "size": 30
+  },
+  "terminal/instrumental-values": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      50,
+      50
+    ],
+    "size": 30
+  },
+  "blog-posts": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      472,
+      539
+    ],
+    "size": 30
+  },
+  "sequences": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      209,
+      520
+    ],
+    "size": 30
+  },
+  "related": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      174,
+      390
+    ],
+    "size": 30
+  },
+  "expected-utility": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      107,
+      217
+    ],
+    "size": 30
+  },
+  "see-also": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      216,
+      178
+    ],
+    "size": 30
+  },
+  "instrumental-rationality": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      109,
+      76
+    ],
+    "size": 30
+  },
+  "causality": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      87,
+      144
+    ],
+    "size": 30
+  },
+  "AIXI": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      210,
+      46
+    ],
+    "size": 30
+  },
+  "newcomb's-problem": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      811,
+      258
+    ],
+    "size": 30
+  },
+  "counterfactual-mugging": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      647,
+      252
+    ],
+    "size": 30
+  },
+  "parfit's-hitchhiker": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      551,
+      78
+    ],
+    "size": 30
+  },
+  "smoker's-lesion": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      516,
+      177
+    ],
+    "size": 30
+  },
+  "absentminded-driver": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      640,
+      46
+    ],
+    "size": 30
+  },
+  "sleeping-beauty-problem": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      465,
+      125
+    ],
+    "size": 30
+  },
+  "prisoner's-dilemma": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      821,
+      139
+    ],
+    "size": 30
+  },
+  "pascal's-mugging": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      762,
+      51
+    ],
+    "size": 30
+  },
+  "annasalomon": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      118,
+      591
+    ],
+    "size": 30
+  },
+  "orthonormal": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      162,
+      616
+    ],
+    "size": 30
+  },
+  "annasalamon": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      81,
+      575
+    ],
+    "size": 30
+  },
+  "terminal-instrumental-values": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      559,
+      614
+    ],
+    "size": 30
+  },
+  "less-wrong-primer": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      374,
+      617
+    ],
+    "size": 30
+  },
+  "decision-theory-FAQ": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      467,
+      646
+    ],
+    "size": 30
+  },
+  "causal": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1211,
+      484
+    ],
+    "size": 30
+  },
+  "evidential": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1210,
+      577
+    ],
+    "size": 30
+  },
+  "functional": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1020,
+      236
+    ],
+    "size": 30
+  },
+  "timeless": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1214,
+      342
+    ],
+    "size": 30
+  },
+  "updateless": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1203,
+      200
+    ],
+    "size": 30
+  },
+  "ambient": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1243,
+      237
+    ],
+    "size": 30
+  },
+  "cheating-death-in-damascus": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1085,
+      168
+    ],
+    "size": 30
+  },
+  "common": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1047,
+      502
+    ],
+    "size": 30
+  },
+  "by-MIRI-LW": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1031,
+      359
+    ],
+    "size": 30
+  },
+  "Start": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      557,
+      424
+    ],
+    "size": 30
+  },
+  "StoryTitle": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1254,
+      112
+    ],
+    "size": 30
+  },
+  "StoryData": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1187,
+      52
+    ],
+    "size": 30
+  },
+  "regret-of-rationality": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1045,
+      60
+    ],
+    "size": 30
+  },
+  "dont-care": {
+    "node": "purple",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      791,
+      563
+    ],
+    "size": 30
+  },
+  "dont-understand": {
+    "node": "red",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      776,
+      334
+    ],
+    "size": 30
+  },
+  "understand": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      709,
+      533
+    ],
+    "size": 30
+  },
+  "Newcomb-is-norm": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      928,
+      56
+    ],
+    "size": 30
+  },
+  "weird-causality": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      606,
+      344
+    ],
+    "size": 30
+  },
+  "anthropics": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      450,
+      251
+    ],
+    "size": 30
+  },
+  "planning-optimality": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      448,
+      27
+    ],
+    "size": 30
+  },
+  "infinity-ethics": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      779,
+      549
+    ],
+    "size": 30
+  },
+  "utility": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      697,
+      554
+    ],
+    "size": 30
+  },
+  "solomonoff-induction": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      319,
+      80
+    ],
+    "size": 30
+  },
+  "moloch": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      220,
+      248
+    ],
+    "size": 30
+  },
+  "world-optimization": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      266,
+      304
+    ],
+    "size": 30
+  },
+  "huge-topics": {
+    "node": "purple",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      346,
+      506
+    ],
+    "size": 30
+  },
+  "who-the-hell-cares-about-decision-theory?": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      194,
+      123
+    ],
+    "size": 30
+  },
+  "whats-up-with-the-weird-thought-experiments?": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      436,
+      174
+    ],
+    "size": 30
+  },
+  "thought-experiments-collection": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      977,
+      625
+    ],
+    "size": 30
+  },
+  "dead-ends": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      50,
+      50
+    ],
+    "size": 30
+  },
+  "too-deep/niche": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      441,
+      437
+    ],
+    "size": 30
+  },
+  "deep-waters": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      331,
+      377
+    ],
+    "size": 30
+  },
+  "niche": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1153,
+      444
+    ],
+    "size": 30
+  },
+  "decision-theories-collection": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      185,
+      462
+    ],
+    "size": 30
+  },
+  "if-convinced-go-deeper": {
+    "node": "purple",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      312,
+      325
+    ],
+    "size": 30
+  },
+  "classic-and-maybe-outdated": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1148,
+      212
+    ],
+    "size": 30
+  },
+  "newish": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1133,
+      302
+    ],
+    "size": 30
+  },
+  "easier": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1142,
+      376
+    ],
+    "size": 30
+  },
+  "CDT:the-simplest-decision-theory": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      673,
+      126
+    ],
+    "size": 30
+  },
+  "CDT-shortcomings": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      598,
+      285
+    ],
+    "size": 30
+  },
+  "obstacles-to-starting": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      436,
+      56
+    ],
+    "size": 30
+  },
+  "go-deeper": {
+    "node": "purple",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      540,
+      409
+    ],
+    "size": 30
+  }
+}

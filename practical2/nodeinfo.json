@@ -1,0 +1,231 @@
+{
+  "energy-motivation": {
+    "next": [],
+    "previous": [
+      "productivity"
+    ]
+  },
+  "principles/attitudes": {
+    "next": [
+      "emotional-honesty",
+      "common-ground",
+      "good-faith-principle",
+      "vulnerability",
+      "relationships"
+    ],
+    "previous": [
+      "communication"
+    ]
+  },
+  "well-being": {
+    "next": [
+      "social-support-systems"
+    ],
+    "previous": [
+      "productivity",
+      "goals-and-planning",
+      "relationships"
+    ]
+  },
+  "vulnerability": {
+    "next": [],
+    "previous": [
+      "principles/attitudes"
+    ]
+  },
+  "emotional-honesty": {
+    "next": [],
+    "previous": [
+      "principles/attitudes"
+    ]
+  },
+  "communication": {
+    "next": [
+      "sub-agents",
+      "principles/attitudes"
+    ],
+    "previous": [
+      "root-ideas"
+    ]
+  },
+  "examples-anecdotes": {
+    "next": [],
+    "previous": [
+      "helpful-for-thinking"
+    ]
+  },
+  "social-support-systems": {
+    "next": [],
+    "previous": [
+      "well-being"
+    ]
+  },
+  "avoiding-conflict": {
+    "next": [],
+    "previous": [
+      "todo"
+    ]
+  },
+  "sub-agents": {
+    "next": [],
+    "previous": [
+      "communication",
+      "root-ideas",
+      "relationships"
+    ]
+  },
+  "careers": {
+    "next": [],
+    "previous": []
+  },
+  "parenting": {
+    "next": [],
+    "previous": [
+      "todo"
+    ]
+  },
+  "financial-investing": {
+    "next": [],
+    "previous": [
+      "todo"
+    ]
+  },
+  "todo": {
+    "next": [
+      "financial-investing",
+      "parenting",
+      "career",
+      "avoiding-conflict"
+    ],
+    "previous": []
+  },
+  "random-tips": {
+    "next": [],
+    "previous": []
+  },
+  "productivity": {
+    "next": [
+      "spaced-repetition",
+      "deep-work",
+      "well-being",
+      "energy-motivation"
+    ],
+    "previous": [
+      "root-ideas"
+    ]
+  },
+  "deep-work": {
+    "next": [],
+    "previous": [
+      "productivity"
+    ]
+  },
+  "thinking-errors": {
+    "next": [
+      "goals-and-planning"
+    ],
+    "previous": [
+      "helpful-for-thinking"
+    ]
+  },
+  "helpful-for-thinking": {
+    "next": [
+      "goals/plans-are-recursive",
+      "thinking-errors",
+      "fallacies",
+      "examples-anecdotes",
+      "expected-value"
+    ],
+    "previous": [
+      "root-ideas"
+    ]
+  },
+  "introspection": {
+    "next": [],
+    "previous": []
+  },
+  "good-faith-principle": {
+    "next": [],
+    "previous": [
+      "principles/attitudes"
+    ]
+  },
+  "common-ground": {
+    "next": [],
+    "previous": [
+      "principles/attitudes"
+    ]
+  },
+  "expected-value": {
+    "next": [
+      "goals-and-planning",
+      "prioritizing"
+    ],
+    "previous": [
+      "helpful-for-thinking"
+    ]
+  },
+  "spaced-repetition": {
+    "next": [],
+    "previous": [
+      "productivity"
+    ]
+  },
+  "prioritizing": {
+    "next": [
+      "goals-and-planning"
+    ],
+    "previous": [
+      "expected-value"
+    ]
+  },
+  "goals/plans-are-recursive": {
+    "next": [
+      "goals-and-planning"
+    ],
+    "previous": [
+      "helpful-for-thinking"
+    ]
+  },
+  "root-ideas": {
+    "next": [
+      "helpful-for-thinking",
+      "sub-agents",
+      "communication",
+      "productivity"
+    ],
+    "previous": []
+  },
+  "disagreements": {
+    "next": [],
+    "previous": []
+  },
+  "resources": {
+    "next": [],
+    "previous": []
+  },
+  "goals-and-planning": {
+    "next": [
+      "well-being"
+    ],
+    "previous": [
+      "thinking-errors",
+      "expected-value",
+      "prioritizing",
+      "goals/plans-are-recursive"
+    ]
+  },
+  "relationships": {
+    "next": [
+      "sub-agents",
+      "well-being"
+    ],
+    "previous": [
+      "principles/attitudes"
+    ]
+  },
+  "happiness": {
+    "next": [],
+    "previous": []
+  }
+}

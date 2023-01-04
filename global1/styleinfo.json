@@ -1,0 +1,352 @@
+{
+  "Artificial-Intelligence": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1030,
+      591
+    ],
+    "size": 30
+  },
+  "Rationality": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      260,
+      583
+    ],
+    "size": 30
+  },
+  "World-Modeling": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      669,
+      362
+    ],
+    "size": 30
+  },
+  "World-Optimization": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      264,
+      159
+    ],
+    "size": 30
+  },
+  "Practical": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1050,
+      343
+    ],
+    "size": 30
+  },
+  "Community": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      768,
+      51
+    ],
+    "size": 30
+  },
+  "Basic-Alignment-Theory": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      907,
+      501
+    ],
+    "size": 30
+  },
+  "Engineering-Alignment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1165,
+      495
+    ],
+    "size": 30
+  },
+  "Strategy": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1038,
+      451
+    ],
+    "size": 30
+  },
+  "Organizations": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1189,
+      580
+    ],
+    "size": 30
+  },
+  "Other": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      598,
+      627
+    ],
+    "size": 30
+  },
+  "Theory-/-Concepts": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      89,
+      580
+    ],
+    "size": 30
+  },
+  "Applied-Topics": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      72,
+      419
+    ],
+    "size": 30
+  },
+  "Failure-Modes": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      397,
+      604
+    ],
+    "size": 30
+  },
+  "Communication": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      217,
+      433
+    ],
+    "size": 30
+  },
+  "Techniques": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      178,
+      631
+    ],
+    "size": 30
+  },
+  "Models-of-the-Mind": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      376,
+      498
+    ],
+    "size": 30
+  },
+  "Mathematical-Sciences": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      541,
+      208
+    ],
+    "size": 30
+  },
+  "General-Science-&-Eng": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      504,
+      404
+    ],
+    "size": 30
+  },
+  "Meta-/-Misc": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      730,
+      541
+    ],
+    "size": 30
+  },
+  "Social-&-Economic": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      589,
+      473
+    ],
+    "size": 30
+  },
+  "Specifics": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      669,
+      223
+    ],
+    "size": 30
+  },
+  "Biological-&-Psychological": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      769,
+      304
+    ],
+    "size": 30
+  },
+  "The-Practice-of-Modeling": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      466,
+      272
+    ],
+    "size": 30
+  },
+  "Moral-Theory": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      113,
+      100
+    ],
+    "size": 30
+  },
+  "Causes-/-Interventions": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      355,
+      67
+    ],
+    "size": 30
+  },
+  "Working-with-Humans": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      91,
+      172
+    ],
+    "size": 30
+  },
+  "Value-&-Virtue": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      308,
+      248
+    ],
+    "size": 30
+  },
+  "Meta": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      196,
+      57
+    ],
+    "size": 30
+  },
+  "Domains-of-Well-being": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      958,
+      260
+    ],
+    "size": 30
+  },
+  "Skills,-Tools,-Techniques": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1111,
+      227
+    ],
+    "size": 30
+  },
+  "Productivity": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1146,
+      321
+    ],
+    "size": 30
+  },
+  "Interpersonal": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      922,
+      344
+    ],
+    "size": 30
+  },
+  "All": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      742,
+      135
+    ],
+    "size": 30
+  },
+  "LessWrong": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      889,
+      119
+    ],
+    "size": 30
+  }
+}

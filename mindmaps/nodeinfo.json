@@ -1,0 +1,203 @@
+{
+  "control-cognitive-load": {
+    "next": [
+      "benefits"
+    ],
+    "previous": [
+      "emphasis"
+    ]
+  },
+  "emphasis": {
+    "next": [
+      "control-cognitive-load"
+    ],
+    "previous": [
+      "features"
+    ]
+  },
+  "logical-scaffold-and-flow": {
+    "next": [
+      "benefits"
+    ],
+    "previous": [
+      "directionality"
+    ]
+  },
+  "non-verbal": {
+    "next": [
+      "leads-to"
+    ],
+    "previous": [
+      "benefits"
+    ]
+  },
+  "mindmaps": {
+    "next": [
+      "features",
+      "benefits",
+      "leads-to"
+    ],
+    "previous": []
+  },
+  "leads-to": {
+    "next": [
+      "understand-better",
+      "learn-faster"
+    ],
+    "previous": [
+      "non-verbal",
+      "mindmaps",
+      "creativity",
+      "metacognition",
+      "abstraction",
+      "critical-thinking",
+      "oversight"
+    ]
+  },
+  "understand-better": {
+    "next": [],
+    "previous": [
+      "leads-to"
+    ]
+  },
+  "learn-faster": {
+    "next": [],
+    "previous": [
+      "leads-to"
+    ]
+  },
+  "grinde": {
+    "next": [],
+    "previous": [
+      "misc"
+    ]
+  },
+  "misc": {
+    "next": [
+      "grinde",
+      "radiant-thinking",
+      "studies"
+    ],
+    "previous": []
+  },
+  "doodles": {
+    "next": [
+      "benefits"
+    ],
+    "previous": [
+      "features"
+    ]
+  },
+  "interconnectivity": {
+    "next": [
+      "benefits"
+    ],
+    "previous": [
+      "features"
+    ]
+  },
+  "grouping": {
+    "next": [
+      "benefits"
+    ],
+    "previous": [
+      "features"
+    ]
+  },
+  "features": {
+    "next": [
+      "grouping",
+      "interconnectivity",
+      "doodles",
+      "directionality",
+      "emphasis"
+    ],
+    "previous": [
+      "mindmaps"
+    ]
+  },
+  "creativity": {
+    "next": [
+      "leads-to"
+    ],
+    "previous": [
+      "benefits"
+    ]
+  },
+  "metacognition": {
+    "next": [
+      "leads-to"
+    ],
+    "previous": [
+      "benefits"
+    ]
+  },
+  "abstraction": {
+    "next": [
+      "leads-to"
+    ],
+    "previous": [
+      "benefits"
+    ]
+  },
+  "critical-thinking": {
+    "next": [
+      "leads-to"
+    ],
+    "previous": [
+      "benefits"
+    ]
+  },
+  "radiant-thinking": {
+    "next": [],
+    "previous": [
+      "misc"
+    ]
+  },
+  "benefits": {
+    "next": [
+      "critical-thinking",
+      "abstraction",
+      "metacognition",
+      "creativity",
+      "oversight",
+      "non-verbal"
+    ],
+    "previous": [
+      "mindmaps",
+      "doodles",
+      "interconnectivity",
+      "grouping",
+      "directionality",
+      "logical-scaffold-and-flow",
+      "control-cognitive-load"
+    ]
+  },
+  "oversight": {
+    "next": [
+      "leads-to"
+    ],
+    "previous": [
+      "benefits"
+    ]
+  },
+  "studies": {
+    "next": [],
+    "previous": [
+      "misc"
+    ]
+  },
+  "empty": {
+    "next": [],
+    "previous": []
+  },
+  "directionality": {
+    "next": [
+      "benefits",
+      "logical-scaffold-and-flow"
+    ],
+    "previous": [
+      "features"
+    ]
+  }
+}

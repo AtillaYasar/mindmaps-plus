@@ -1,0 +1,19 @@
+text window   # this is the window containing the text of the passages
+title: the title. lol.
+window width: 1300
+window height: 800
+# x and y are about the starting position, starting from the topleft.
+window x: 0  
+window y: 0
+textbox width: 100
+textbox height: 25
+
+visualization window  # this is the window containing the visualization and the commands tab
+title: idk
+window width: 1500
+window height: 1000
+# x and y are about the starting position, starting from the topleft.
+window x: 0 
+window y: 100
+canvas width: 1300  # canvas is the size of the window surrounding the actual image of the diagram
+canvas height: 1000

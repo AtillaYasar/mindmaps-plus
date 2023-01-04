@@ -1,0 +1,1432 @@
+{
+  "StoryTitle": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1249,
+      134
+    ],
+    "size": 30
+  },
+  "css": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1246,
+      52
+    ],
+    "size": 30
+  },
+  "barriers-to-entry": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      831,
+      47
+    ],
+    "size": 30
+  },
+  "misc": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      377,
+      91
+    ],
+    "size": 30
+  },
+  "main": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      50,
+      50
+    ],
+    "size": 30
+  },
+  "main-ideas": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      195,
+      69
+    ],
+    "size": 30
+  },
+  "basic-alignment-theory": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      231,
+      402
+    ],
+    "size": 30
+  },
+  "engineering-alignment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      801,
+      311
+    ],
+    "size": 30
+  },
+  "strategy": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      551,
+      100
+    ],
+    "size": 30
+  },
+  "organizations": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      355,
+      112
+    ],
+    "size": 30
+  },
+  "other": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      356,
+      230
+    ],
+    "size": 30
+  },
+  "rationality": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      200,
+      146
+    ],
+    "size": 30
+  },
+  "artificial-intelligence": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      297,
+      155
+    ],
+    "size": 30
+  },
+  "world-modeling": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      121,
+      144
+    ],
+    "size": 30
+  },
+  "world-optimization": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      407,
+      151
+    ],
+    "size": 30
+  },
+  "practical": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      505,
+      154
+    ],
+    "size": 30
+  },
+  "community": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      42,
+      145
+    ],
+    "size": 30
+  },
+  "core-tags": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      238,
+      32
+    ],
+    "size": 30
+  },
+  "near-miss": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      944,
+      48
+    ],
+    "size": 30
+  },
+  "Decision-Theory": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1234,
+      529
+    ],
+    "size": 30
+  },
+  "Inner-Alignment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1225,
+      591
+    ],
+    "size": 30
+  },
+  "Outer-Alignment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1112,
+      562
+    ],
+    "size": 30
+  },
+  "Utility-Functions": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1093,
+      424
+    ],
+    "size": 30
+  },
+  "Optimization": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1225,
+      452
+    ],
+    "size": 30
+  },
+  "Artificial-Intelligence": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      577,
+      67
+    ],
+    "size": 30
+  },
+  "Rationality": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      147,
+      201
+    ],
+    "size": 30
+  },
+  "World-Modeling": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      376,
+      189
+    ],
+    "size": 30
+  },
+  "World-Optimization": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      260,
+      363
+    ],
+    "size": 30
+  },
+  "Practical": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      634,
+      347
+    ],
+    "size": 30
+  },
+  "Community": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      513,
+      456
+    ],
+    "size": 30
+  },
+  "Basic-Alignment-Theory": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1186,
+      188
+    ],
+    "size": 30
+  },
+  "Engineering-Alignment": {
+    "node": "purple",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      886,
+      162
+    ],
+    "size": 30
+  },
+  "Strategy": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      645,
+      175
+    ],
+    "size": 30
+  },
+  "Organizations": {
+    "node": "magenta",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      365,
+      188
+    ],
+    "size": 30
+  },
+  "Other": {
+    "node": "orange",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      85,
+      119
+    ],
+    "size": 30
+  },
+  "Theory-/-Concepts": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      720,
+      503
+    ],
+    "size": 30
+  },
+  "Applied-Topics": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      333,
+      629
+    ],
+    "size": 30
+  },
+  "Failure-Modes": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      122,
+      550
+    ],
+    "size": 30
+  },
+  "Communication": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      790,
+      258
+    ],
+    "size": 30
+  },
+  "Techniques": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      56,
+      339
+    ],
+    "size": 30
+  },
+  "Models-of-the-Mind": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      103,
+      378
+    ],
+    "size": 30
+  },
+  "Mathematical-Sciences": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      69,
+      453
+    ],
+    "size": 30
+  },
+  "General-Science-&-Eng": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      539,
+      559
+    ],
+    "size": 30
+  },
+  "Meta-/-Misc": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      340,
+      495
+    ],
+    "size": 30
+  },
+  "Social-&-Economic": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      516,
+      360
+    ],
+    "size": 30
+  },
+  "Specifics": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      50,
+      50
+    ],
+    "size": 30
+  },
+  "Biological-&-Psychological": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      50,
+      50
+    ],
+    "size": 30
+  },
+  "The-Practice-of-Modeling": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      50,
+      50
+    ],
+    "size": 30
+  },
+  "Moral-Theory": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      50,
+      50
+    ],
+    "size": 30
+  },
+  "Causes-/-Interventions": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      50,
+      50
+    ],
+    "size": 30
+  },
+  "Working-with-Humans": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      50,
+      50
+    ],
+    "size": 30
+  },
+  "Value-&-Virtue": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      50,
+      50
+    ],
+    "size": 30
+  },
+  "Meta": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      50,
+      50
+    ],
+    "size": 30
+  },
+  "Domains-of-Well-being": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      50,
+      50
+    ],
+    "size": 30
+  },
+  "Skills,-Tools,-Techniques": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      50,
+      50
+    ],
+    "size": 30
+  },
+  "Productivity": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      50,
+      50
+    ],
+    "size": 30
+  },
+  "Interpersonal": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      50,
+      50
+    ],
+    "size": 30
+  },
+  "All": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      50,
+      50
+    ],
+    "size": 30
+  },
+  "LessWrong": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      50,
+      50
+    ],
+    "size": 30
+  },
+  "Transparency-/-Interpretability": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      858,
+      635
+    ],
+    "size": 30
+  },
+  "Value-Learning": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      983,
+      534
+    ],
+    "size": 30
+  },
+  "Oracle-AI": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      829,
+      562
+    ],
+    "size": 30
+  },
+  "Iterated-Amplification-": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      967,
+      606
+    ],
+    "size": 30
+  },
+  "AI-Boxing-": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      908,
+      554
+    ],
+    "size": 30
+  },
+  "AI-Risk": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      578,
+      524
+    ],
+    "size": 30
+  },
+  "AI-Timelines": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      670,
+      641
+    ],
+    "size": 30
+  },
+  "AI-Takeoff": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      695,
+      562
+    ],
+    "size": 30
+  },
+  "AI-Governance": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      616,
+      589
+    ],
+    "size": 30
+  },
+  "Regulation-and-AI-Risk": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      512,
+      623
+    ],
+    "size": 30
+  },
+  "Machine-Intelligence-Research-Institute": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      413,
+      493
+    ],
+    "size": 30
+  },
+  "OpenAI": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      359,
+      612
+    ],
+    "size": 30
+  },
+  "DeepMind": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      250,
+      633
+    ],
+    "size": 30
+  },
+  "Future-of-Humanity-Institute-": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      292,
+      567
+    ],
+    "size": 30
+  },
+  "AI-Safety-Camp": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      409,
+      548
+    ],
+    "size": 30
+  },
+  "Machine-Learning-": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      127,
+      580
+    ],
+    "size": 30
+  },
+  "GPT": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      38,
+      540
+    ],
+    "size": 30
+  },
+  "Language-Models": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      90,
+      456
+    ],
+    "size": 30
+  },
+  "Reinforcement-Learning": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      157,
+      499
+    ],
+    "size": 30
+  },
+  "Research-Agendas": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      80,
+      635
+    ],
+    "size": 30
+  },
+  "huge-topics": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      216,
+      341
+    ],
+    "size": 30
+  },
+  "moloch": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      422,
+      150
+    ],
+    "size": 30
+  },
+  "solomonoff-induction": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      299,
+      191
+    ],
+    "size": 30
+  },
+  "utility": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      141,
+      293
+    ],
+    "size": 30
+  },
+  "infinity-ethics": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      363,
+      491
+    ],
+    "size": 30
+  },
+  "planning-optimality": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      432,
+      322
+    ],
+    "size": 30
+  },
+  "anthropics": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      331,
+      315
+    ],
+    "size": 30
+  },
+  "weird-causality": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      353,
+      319
+    ],
+    "size": 30
+  },
+  "Newcomb-is-norm": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      193,
+      367
+    ],
+    "size": 30
+  },
+  "regret-of-rationality": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      340,
+      81
+    ],
+    "size": 30
+  },
+  "by-MIRI-LW": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      432,
+      435
+    ],
+    "size": 30
+  },
+  "common": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      313,
+      434
+    ],
+    "size": 30
+  },
+  "cheating-death-in-damascus": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      242,
+      107
+    ],
+    "size": 30
+  },
+  "ambient": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      156,
+      271
+    ],
+    "size": 30
+  },
+  "updateless": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      60,
+      456
+    ],
+    "size": 30
+  },
+  "timeless": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      328,
+      86
+    ],
+    "size": 30
+  },
+  "functional": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      186,
+      152
+    ],
+    "size": 30
+  },
+  "evidential": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      396,
+      171
+    ],
+    "size": 30
+  },
+  "causal": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      460,
+      166
+    ],
+    "size": 30
+  },
+  "decision-theory-FAQ": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      498,
+      454
+    ],
+    "size": 30
+  },
+  "terminal-instrumental-values": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      381,
+      318
+    ],
+    "size": 30
+  },
+  "utility-functions": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      404,
+      466
+    ],
+    "size": 30
+  },
+  "robust-agents": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      181,
+      80
+    ],
+    "size": 30
+  },
+  "game-theory": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      144,
+      53
+    ],
+    "size": 30
+  },
+  "annasalamon": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      317,
+      218
+    ],
+    "size": 30
+  },
+  "orthonormal": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      358,
+      356
+    ],
+    "size": 30
+  },
+  "pascal's-mugging": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      178,
+      496
+    ],
+    "size": 30
+  },
+  "prisoner's-dilemma": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      200,
+      459
+    ],
+    "size": 30
+  },
+  "sleeping-beauty-problem": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      334,
+      499
+    ],
+    "size": 30
+  },
+  "absentminded-driver": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      486,
+      89
+    ],
+    "size": 30
+  },
+  "smoker's-lesion": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      240,
+      355
+    ],
+    "size": 30
+  },
+  "parfit's-hitchhiker": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      269,
+      136
+    ],
+    "size": 30
+  },
+  "counterfactual-mugging": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      138,
+      158
+    ],
+    "size": 30
+  },
+  "newcomb's-problem": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      420,
+      314
+    ],
+    "size": 30
+  },
+  "AIXI": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      149,
+      57
+    ],
+    "size": 30
+  },
+  "expected-utility": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      80,
+      157
+    ],
+    "size": 30
+  },
+  "causality": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      333,
+      365
+    ],
+    "size": 30
+  },
+  "instrumental-rationality": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      110,
+      405
+    ],
+    "size": 30
+  },
+  "see-also": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      117,
+      126
+    ],
+    "size": 30
+  },
+  "related": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      182,
+      227
+    ],
+    "size": 30
+  },
+  "sequences": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      304,
+      447
+    ],
+    "size": 30
+  },
+  "blog-posts": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      381,
+      414
+    ],
+    "size": 30
+  },
+  "decision-theories": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      364,
+      165
+    ],
+    "size": 30
+  },
+  "thought-experiments": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      111,
+      173
+    ],
+    "size": 30
+  },
+  "obstacles-to-starting": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      353,
+      74
+    ],
+    "size": 30
+  },
+  "CDT-shortcomings": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      356,
+      198
+    ],
+    "size": 30
+  },
+  "CDT:the-simplest-decision-theory": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      364,
+      208
+    ],
+    "size": 30
+  },
+  "easier": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      180,
+      263
+    ],
+    "size": 30
+  },
+  "newish": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      379,
+      82
+    ],
+    "size": 30
+  },
+  "classic-and-maybe-outdated": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      164,
+      247
+    ],
+    "size": 30
+  },
+  "if-convinced-go-deeper": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      367,
+      266
+    ],
+    "size": 30
+  },
+  "decision-theories-collection": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      235,
+      220
+    ],
+    "size": 30
+  },
+  "niche": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      176,
+      472
+    ],
+    "size": 30
+  },
+  "thought-experiments-collection": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      318,
+      153
+    ],
+    "size": 30
+  },
+  "whats-up-with-the-weird-thought-experiments?": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      83,
+      423
+    ],
+    "size": 30
+  },
+  "who-the-hell-cares-about-decision-theory?": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      272,
+      57
+    ],
+    "size": 30
+  },
+  "hi": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      132,
+      472
+    ],
+    "size": 30
+  },
+  "how-to-learn-things": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      60,
+      489
+    ],
+    "size": 30
+  },
+  "how-to-make-decisions": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      105,
+      382
+    ],
+    "size": 30
+  },
+  "how-to-maybe-not-die": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      140,
+      152
+    ],
+    "size": 30
+  },
+  "attempted-solutions-where-everybody-still-dies": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      387,
+      380
+    ],
+    "size": 30
+  },
+  "nothing-zip-nada": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      62,
+      56
+    ],
+    "size": 30
+  },
+  "known-solutions-to-AI-killing-everybody": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      479,
+      226
+    ],
+    "size": 30
+  },
+  "types-of-Artificial-intelligence": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      177,
+      86
+    ],
+    "size": 30
+  }
+}
