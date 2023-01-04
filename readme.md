@@ -3,6 +3,6 @@
 - unzip
 - double click the file named app.py
 
-or
-- git clone gh repo clone https://github.com/AtillaYasar/mindmaps-plus
+or (if youre a NERD)
+- git clone https://github.com/AtillaYasar/mindmaps-plus
 - run app.py
