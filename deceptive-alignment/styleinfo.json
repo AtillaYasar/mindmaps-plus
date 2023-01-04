@@ -1,0 +1,482 @@
+{
+  "missing-school": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      349,
+      73
+    ],
+    "size": 30
+  },
+  "currently-juggling": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      793,
+      249
+    ],
+    "size": 30
+  },
+  "drugs-running-out": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      223,
+      276
+    ],
+    "size": 30
+  },
+  "broke": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      668,
+      176
+    ],
+    "size": 30
+  },
+  "conjecture-hiring": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      534,
+      478
+    ],
+    "size": 30
+  },
+  "aion-twine": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      763,
+      360
+    ],
+    "size": 30
+  },
+  "[[low-path-dependence-->low-path-dependence]]": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      436,
+      200
+    ],
+    "size": 30
+  },
+  "[[high-path-dependence-->high-path-dependence]]": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      198,
+      68
+    ],
+    "size": 30
+  },
+  "[[pointer-->pointer]]": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      375,
+      325
+    ],
+    "size": 30
+  },
+  "[[overhang-->training-overhang]]": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      322,
+      301
+    ],
+    "size": 30
+  },
+  "[[tradeoff-->tradeoff]]": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      79,
+      59
+    ],
+    "size": 30
+  },
+  "[[inner-alignment-->inner-alignment]]": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      438,
+      61
+    ],
+    "size": 30
+  },
+  "[[corrigible-alignment-->corrigible-alignment]]": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      364,
+      185
+    ],
+    "size": 30
+  },
+  "[[knowledge-types-->knowledge-types]]": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      334,
+      120
+    ],
+    "size": 30
+  },
+  "[[proxy-alignment-->internal-alignment]]": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      406,
+      434
+    ],
+    "size": 30
+  },
+  "[[deceptive-alignment-->deceptive-alignment]]": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      201,
+      178
+    ],
+    "size": 30
+  },
+  "[[inductive-bias-->inductive-bias]]": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      180,
+      204
+    ],
+    "size": 30
+  },
+  "[[path-dependence-->path-dependence]]": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      441,
+      412
+    ],
+    "size": 30
+  },
+  "[[speed-vs-complexity-->speed-vs-complexity]]": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      182,
+      239
+    ],
+    "size": 30
+  },
+  "[[double-descent-->double-descent]]": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      416,
+      142
+    ],
+    "size": 30
+  },
+  "[[proxies-->proxies]]": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      110,
+      228
+    ],
+    "size": 30
+  },
+  "[[world-model-->world-model]]": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      163,
+      358
+    ],
+    "size": 30
+  },
+  "[[training-objective-->training-objective]]": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      114,
+      228
+    ],
+    "size": 30
+  },
+  "[[weights-vs-activations-->weights-vs-activations]]": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      76,
+      474
+    ],
+    "size": 30
+  },
+  "double-descent": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1222,
+      294
+    ],
+    "size": 30
+  },
+  "speed-vs-complexity": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      999,
+      360
+    ],
+    "size": 30
+  },
+  "general-structure": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      556,
+      128
+    ],
+    "size": 30
+  },
+  "weights-vs-activations": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1012,
+      487
+    ],
+    "size": 30
+  },
+  "knowledge-types": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      886,
+      261
+    ],
+    "size": 30
+  },
+  "training-objective": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      843,
+      385
+    ],
+    "size": 30
+  },
+  "indistinguishable": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      635,
+      58
+    ],
+    "size": 30
+  },
+  "core-concepts": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1089,
+      176
+    ],
+    "size": 30
+  },
+  "training-overhang": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1202,
+      211
+    ],
+    "size": 30
+  },
+  "pointer": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1183,
+      365
+    ],
+    "size": 30
+  },
+  "world-model": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      685,
+      402
+    ],
+    "size": 30
+  },
+  "proxies": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      581,
+      325
+    ],
+    "size": 30
+  },
+  "deceptive-alignment": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      821,
+      188
+    ],
+    "size": 30
+  },
+  "path-dependence": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1209,
+      63
+    ],
+    "size": 30
+  },
+  "internal-alignment": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      887,
+      60
+    ],
+    "size": 30
+  },
+  "corrigible-alignment": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      827,
+      121
+    ],
+    "size": 30
+  },
+  "inductive-bias": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1094,
+      409
+    ],
+    "size": 30
+  },
+  "crucial-moment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      249,
+      145
+    ],
+    "size": 30
+  },
+  "model-learns-about-itself": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      257,
+      137
+    ],
+    "size": 30
+  },
+  "what-happens?": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      248,
+      230
+    ],
+    "size": 30
+  },
+  "low-path-dependence": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      344,
+      382
+    ],
+    "size": 30
+  },
+  "high-path-dependence": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      137,
+      365
+    ],
+    "size": 30
+  },
+  "assumptions": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      112,
+      87
+    ],
+    "size": 30
+  },
+  "stable-equilibrium": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1081,
+      72
+    ],
+    "size": 30
+  }
+}

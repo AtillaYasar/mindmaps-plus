@@ -1,0 +1,222 @@
+{
+  "Artificial-Intelligence": {
+    "next": [
+      "Basic-Alignment-Theory",
+      "Engineering-Alignment",
+      "Strategy",
+      "Organizations",
+      "Other"
+    ],
+    "previous": []
+  },
+  "Basic-Alignment-Theory": {
+    "next": [
+      "Decision-Theory",
+      "Inner-Alignment",
+      "Outer-Alignment",
+      "Utility-Functions",
+      "Optimization"
+    ],
+    "previous": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Engineering-Alignment": {
+    "next": [
+      "Transparency-/-Interpretability",
+      "Value-Learning",
+      "Oracle-AI",
+      "Iterated-Amplification-",
+      "AI-Boxing-"
+    ],
+    "previous": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Strategy": {
+    "next": [
+      "AI-Risk",
+      "AI-Timelines",
+      "AI-Takeoff",
+      "AI-Governance",
+      "Regulation-and-AI-Risk"
+    ],
+    "previous": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Organizations": {
+    "next": [
+      "Machine-Intelligence-Research-Institute",
+      "OpenAI",
+      "DeepMind",
+      "Future-of-Humanity-Institute-",
+      "AI-Safety-Camp"
+    ],
+    "previous": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Other": {
+    "next": [
+      "Machine-Learning-",
+      "GPT",
+      "Language-Models",
+      "Reinforcement-Learning",
+      "Research-Agendas"
+    ],
+    "previous": [
+      "Artificial-Intelligence"
+    ]
+  },
+  "Decision-Theory": {
+    "next": [],
+    "previous": [
+      "Basic-Alignment-Theory"
+    ]
+  },
+  "Inner-Alignment": {
+    "next": [],
+    "previous": [
+      "Basic-Alignment-Theory"
+    ]
+  },
+  "Outer-Alignment": {
+    "next": [],
+    "previous": [
+      "Basic-Alignment-Theory"
+    ]
+  },
+  "Utility-Functions": {
+    "next": [],
+    "previous": [
+      "Basic-Alignment-Theory"
+    ]
+  },
+  "Optimization": {
+    "next": [],
+    "previous": [
+      "Basic-Alignment-Theory"
+    ]
+  },
+  "Transparency-/-Interpretability": {
+    "next": [],
+    "previous": [
+      "Engineering-Alignment"
+    ]
+  },
+  "Value-Learning": {
+    "next": [],
+    "previous": [
+      "Engineering-Alignment"
+    ]
+  },
+  "Oracle-AI": {
+    "next": [],
+    "previous": [
+      "Engineering-Alignment"
+    ]
+  },
+  "Iterated-Amplification-": {
+    "next": [],
+    "previous": [
+      "Engineering-Alignment"
+    ]
+  },
+  "AI-Boxing-": {
+    "next": [],
+    "previous": [
+      "Engineering-Alignment"
+    ]
+  },
+  "AI-Risk": {
+    "next": [],
+    "previous": [
+      "Strategy"
+    ]
+  },
+  "AI-Timelines": {
+    "next": [],
+    "previous": [
+      "Strategy"
+    ]
+  },
+  "AI-Takeoff": {
+    "next": [],
+    "previous": [
+      "Strategy"
+    ]
+  },
+  "AI-Governance": {
+    "next": [],
+    "previous": [
+      "Strategy"
+    ]
+  },
+  "Regulation-and-AI-Risk": {
+    "next": [],
+    "previous": [
+      "Strategy"
+    ]
+  },
+  "Machine-Intelligence-Research-Institute": {
+    "next": [],
+    "previous": [
+      "Organizations"
+    ]
+  },
+  "OpenAI": {
+    "next": [],
+    "previous": [
+      "Organizations"
+    ]
+  },
+  "DeepMind": {
+    "next": [],
+    "previous": [
+      "Organizations"
+    ]
+  },
+  "Future-of-Humanity-Institute-": {
+    "next": [],
+    "previous": [
+      "Organizations"
+    ]
+  },
+  "AI-Safety-Camp": {
+    "next": [],
+    "previous": [
+      "Organizations"
+    ]
+  },
+  "Machine-Learning-": {
+    "next": [],
+    "previous": [
+      "Other"
+    ]
+  },
+  "GPT": {
+    "next": [],
+    "previous": [
+      "Other"
+    ]
+  },
+  "Language-Models": {
+    "next": [],
+    "previous": [
+      "Other"
+    ]
+  },
+  "Reinforcement-Learning": {
+    "next": [],
+    "previous": [
+      "Other"
+    ]
+  },
+  "Research-Agendas": {
+    "next": [],
+    "previous": [
+      "Other"
+    ]
+  }
+}

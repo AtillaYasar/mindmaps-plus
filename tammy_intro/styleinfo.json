@@ -1,0 +1,112 @@
+{
+  "casual-intro-to-ai-doom-and-alignment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      563,
+      340
+    ],
+    "size": 30
+  },
+  "what-is-alignment": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1167,
+      456
+    ],
+    "size": 30
+  },
+  "how-to-help": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      448,
+      152
+    ],
+    "size": 30
+  },
+  "orthogonality-thesis": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      298,
+      489
+    ],
+    "size": 30
+  },
+  "instrumental-convergence": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      408,
+      549
+    ],
+    "size": 30
+  },
+  "extra-resources": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1103,
+      579
+    ],
+    "size": 30
+  },
+  "tldr": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      886,
+      345
+    ],
+    "size": 30
+  },
+  "everyone-is-confused": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      493,
+      258
+    ],
+    "size": 30
+  },
+  "why-everybody-will-die": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      489,
+      414
+    ],
+    "size": 30
+  },
+  "more": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      692,
+      577
+    ],
+    "size": 30
+  },
+  "defining-values": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      561,
+      584
+    ],
+    "size": 30
+  }
+}

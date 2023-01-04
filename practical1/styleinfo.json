@@ -1,0 +1,382 @@
+{
+  "Practical": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      626,
+      320
+    ],
+    "size": 30
+  },
+  "Domains-of-Well-being": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      428,
+      499
+    ],
+    "size": 30
+  },
+  "Skills,-Tools,-Techniques": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      197,
+      284
+    ],
+    "size": 30
+  },
+  "Productivity": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      827,
+      453
+    ],
+    "size": 30
+  },
+  "Interpersonal": {
+    "node": "brown",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      788,
+      185
+    ],
+    "size": 30
+  },
+  "Emotions": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      151,
+      430
+    ],
+    "size": 30
+  },
+  "Financial-Investing": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      587,
+      563
+    ],
+    "size": 30
+  },
+  "Parenting": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      466,
+      618
+    ],
+    "size": 30
+  },
+  "Careers": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      333,
+      621
+    ],
+    "size": 30
+  },
+  "Well-being": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      328,
+      369
+    ],
+    "size": 30
+  },
+  "Software-Tools": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      62,
+      353
+    ],
+    "size": 30
+  },
+  "Cryonics": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      46,
+      238
+    ],
+    "size": 30
+  },
+  "Virtues-": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      381,
+      248
+    ],
+    "size": 30
+  },
+  "Planning-&-Decision-Making": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      319,
+      139
+    ],
+    "size": 30
+  },
+  "Motivations": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      949,
+      355
+    ],
+    "size": 30
+  },
+  "Akrasia": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      999,
+      563
+    ],
+    "size": 30
+  },
+  "Procrastination": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1056,
+      503
+    ],
+    "size": 30
+  },
+  "Willpower": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1066,
+      427
+    ],
+    "size": 30
+  },
+  "Relationship": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      928,
+      84
+    ],
+    "size": 30
+  },
+  "Conversation-": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      942,
+      149
+    ],
+    "size": 30
+  },
+  "Communication-Cultures": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      937,
+      260
+    ],
+    "size": 30
+  },
+  "Circling": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      804,
+      54
+    ],
+    "size": 30
+  },
+  "css": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1215,
+      54
+    ],
+    "size": 30
+  },
+  "buying/outsourcing": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      216,
+      44
+    ],
+    "size": 30
+  },
+  "planning-fallacy": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      371,
+      39
+    ],
+    "size": 30
+  },
+  "cognitive-biases": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      520,
+      65
+    ],
+    "size": 30
+  },
+  "uncertainty-slowdown": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      539,
+      153
+    ],
+    "size": 30
+  },
+  "outsource-rational-self": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      97,
+      78
+    ],
+    "size": 30
+  },
+  "plans-are-recursive": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      121,
+      159
+    ],
+    "size": 30
+  },
+  "pain-is-not-effort": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      453,
+      364
+    ],
+    "size": 30
+  },
+  "self-help-science": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      177,
+      619
+    ],
+    "size": 30
+  },
+  "study-methods": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      152,
+      519
+    ],
+    "size": 30
+  },
+  "happiness": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      64,
+      486
+    ],
+    "size": 30
+  },
+  "internal-double-crux": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1143,
+      616
+    ],
+    "size": 30
+  },
+  "subagents": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1172,
+      379
+    ],
+    "size": 30
+  },
+  "making-close-friends": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1088,
+      38
+    ],
+    "size": 30
+  },
+  "romance": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1077,
+      127
+    ],
+    "size": 30
+  },
+  "every-best-book": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      678,
+      485
+    ],
+    "size": 30
+  }
+}

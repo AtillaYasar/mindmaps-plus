@@ -1,0 +1,36 @@
+::why-is-app-weird
+because it was originally made for making interactive stories with Twine.
+and to work with .tw files, which is then compiled into a .html file using software called "tweego"
+
+::for-developers
+[[god-help-you-->god-help-you]]
+
+::side-notes
+[[for-developers-->for-developers]]
+[[why-is-app-weird-->why-is-app-weird]]
+[[criticism-complaints-->criticism-complaints]]
+[[feedback-->feedback]]
+
+::the-tutorial
+change mindmap <nameofmindmap>
+
+add passage <title>
+
+delete passage <title>
+
+change color <title> color
+
+some extra things:
+- to make a change register, you have to click another passage in the list to the left. if you click the same one, it's usually okay, but sometimes weird things happen.
+	- if weird things happen just restart the app. has always worked for me. lol
+- mass color and mass link still require explanation, everything else also needs explanations probably
+
+oh and dont use quotations marks in the name. weird things will happen, im not sure why.
+
+most useful commands:
+- mass link
+- mass remove
+- mass color
+
+::god-help-you
+ye i got nothin.

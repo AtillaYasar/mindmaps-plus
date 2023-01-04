@@ -1,0 +1,82 @@
+{
+  "the-tutorial": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      802,
+      265
+    ],
+    "size": 30
+  },
+  "why-is-app-weird": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      955,
+      321
+    ],
+    "size": 30
+  },
+  "for-developers": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1050,
+      246
+    ],
+    "size": 30
+  },
+  "god-help-you": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1133,
+      351
+    ],
+    "size": 30
+  },
+  "side-notes": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      936,
+      181
+    ],
+    "size": 30
+  },
+  "lol": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      395,
+      194
+    ],
+    "size": 30
+  },
+  "criticism-complaints": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1036,
+      391
+    ],
+    "size": 30
+  },
+  "feedback": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      852,
+      358
+    ],
+    "size": 30
+  }
+}

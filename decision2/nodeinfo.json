@@ -1,0 +1,86 @@
+{
+  "obstacles-to-starting": {
+    "next": [
+      "who-the-hell-cares-about-decision-theory?",
+      "whats-up-with-the-weird-thought-experiments?",
+      "CDT:the-simplest-decision-theory"
+    ],
+    "previous": []
+  },
+  "CDT-shortcomings": {
+    "next": [
+      "if-convinced-go-deeper"
+    ],
+    "previous": [
+      "CDT:the-simplest-decision-theory",
+      "who-the-hell-cares-about-decision-theory?"
+    ]
+  },
+  "CDT:the-simplest-decision-theory": {
+    "next": [
+      "CDT-shortcomings"
+    ],
+    "previous": [
+      "obstacles-to-starting"
+    ]
+  },
+  "easier": {
+    "next": [],
+    "previous": []
+  },
+  "newish": {
+    "next": [],
+    "previous": []
+  },
+  "classic-and-maybe-outdated": {
+    "next": [],
+    "previous": []
+  },
+  "if-convinced-go-deeper": {
+    "next": [
+      "thought-experiments-collection",
+      "decision-theories-collection"
+    ],
+    "previous": [
+      "CDT-shortcomings",
+      "whats-up-with-the-weird-thought-experiments?",
+      "who-the-hell-cares-about-decision-theory?"
+    ]
+  },
+  "decision-theories-collection": {
+    "next": [
+      "thought-experiments-collection"
+    ],
+    "previous": [
+      "if-convinced-go-deeper"
+    ]
+  },
+  "niche": {
+    "next": [],
+    "previous": []
+  },
+  "thought-experiments-collection": {
+    "next": [],
+    "previous": [
+      "if-convinced-go-deeper",
+      "decision-theories-collection"
+    ]
+  },
+  "whats-up-with-the-weird-thought-experiments?": {
+    "next": [
+      "if-convinced-go-deeper"
+    ],
+    "previous": [
+      "obstacles-to-starting"
+    ]
+  },
+  "who-the-hell-cares-about-decision-theory?": {
+    "next": [
+      "if-convinced-go-deeper",
+      "CDT-shortcomings"
+    ],
+    "previous": [
+      "obstacles-to-starting"
+    ]
+  }
+}

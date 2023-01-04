@@ -1,0 +1,160 @@
+{
+  "tools": {
+    "next": [
+      "understanding-AI"
+    ],
+    "previous": []
+  },
+  "strategies": {
+    "next": [],
+    "previous": []
+  },
+  "ELK": {
+    "next": [],
+    "previous": [
+      "understanding-AI"
+    ]
+  },
+  "tammy-alignment": {
+    "next": [],
+    "previous": []
+  },
+  "transformative-ai": {
+    "next": [],
+    "previous": []
+  },
+  "deceptive-alignment": {
+    "next": [
+      "inner-alignment]\n",
+      "outer-alignment]\n",
+      "mesa-optimization"
+    ],
+    "previous": []
+  },
+  "what-is-AI-thinking": {
+    "next": [],
+    "previous": []
+  },
+  "mesa-optimization": {
+    "next": [],
+    "previous": [
+      "deceptive-alignment"
+    ]
+  },
+  "outer-alignment": {
+    "next": [],
+    "previous": []
+  },
+  "value-learning": {
+    "next": [],
+    "previous": []
+  },
+  "alignment-minetest": {
+    "next": [],
+    "previous": [
+      "EAI-channels"
+    ]
+  },
+  "aesthetic-models": {
+    "next": [],
+    "previous": [
+      "EAI-channels"
+    ]
+  },
+  "accelerating-alignment": {
+    "next": [],
+    "previous": [
+      "EAI-channels"
+    ]
+  },
+  "agent-foundations": {
+    "next": [],
+    "previous": [
+      "EAI-channels"
+    ]
+  },
+  "prosaic-alignment": {
+    "next": [],
+    "previous": [
+      "EAI-channels"
+    ]
+  },
+  "EAI-channels": {
+    "next": [
+      "prosaic-alignment",
+      "agent-foundations",
+      "accelerating-alignment",
+      "aesthetic-models",
+      "alignment-minetest"
+    ],
+    "previous": []
+  },
+  "oracle-AI": {
+    "next": [],
+    "previous": []
+  },
+  "general-alignment": {
+    "next": [],
+    "previous": []
+  },
+  "to-read": {
+    "next": [],
+    "previous": []
+  },
+  "decision-theory": {
+    "next": [],
+    "previous": []
+  },
+  "too-niche-or-too-hard": {
+    "next": [],
+    "previous": []
+  },
+  "failing-strategies": {
+    "next": [],
+    "previous": []
+  },
+  "AIXI": {
+    "next": [],
+    "previous": []
+  },
+  "teaching-AI-values": {
+    "next": [],
+    "previous": []
+  },
+  "complexity-of-value": {
+    "next": [],
+    "previous": []
+  },
+  "embedded-agency": {
+    "next": [],
+    "previous": []
+  },
+  "agency-theory": {
+    "next": [],
+    "previous": []
+  },
+  "RLHF": {
+    "next": [],
+    "previous": []
+  },
+  "interpretability": {
+    "next": [],
+    "previous": []
+  },
+  "understanding-AI": {
+    "next": [
+      "ELK"
+    ],
+    "previous": [
+      "tools"
+    ]
+  },
+  "goodharts-law": {
+    "next": [],
+    "previous": []
+  },
+  "reward-functions": {
+    "next": [],
+    "previous": []
+  }
+}

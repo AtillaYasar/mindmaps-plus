@@ -1,0 +1,222 @@
+{
+  "emotions-happiness-misery": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      629,
+      243
+    ],
+    "size": 30
+  },
+  "what-matters?": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      455,
+      46
+    ],
+    "size": 30
+  },
+  "why-care/worry-about-ai?": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      135,
+      67
+    ],
+    "size": 30
+  },
+  "motivation-productivity": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      858,
+      270
+    ],
+    "size": 30
+  },
+  "how-to-communicate": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      970,
+      119
+    ],
+    "size": 30
+  },
+  "how-to-think": {
+    "node": "blue",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      756,
+      79
+    ],
+    "size": 30
+  },
+  "css": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      99,
+      363
+    ],
+    "size": 30
+  },
+  "evangelism": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1141,
+      424
+    ],
+    "size": 30
+  },
+  "potential-for-power": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      89,
+      158
+    ],
+    "size": 30
+  },
+  "risk-of-bad-behavior": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      258,
+      138
+    ],
+    "size": 30
+  },
+  "test": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      62,
+      310
+    ],
+    "size": 30
+  },
+  "types-of-Artificial-intelligence": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      647,
+      608
+    ],
+    "size": 30
+  },
+  "known-methods-to-prevent-AI-from-killing-everyone": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      314,
+      235
+    ],
+    "size": 30
+  },
+  "NOTHING": {
+    "node": "red",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      396,
+      298
+    ],
+    "size": 30
+  },
+  "attempts-where-everybody-still-probably-dies": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      328,
+      361
+    ],
+    "size": 30
+  },
+  "attempts-where-maybe-humanity-wins": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      155,
+      589
+    ],
+    "size": 30
+  },
+  "how-to-make-decisions": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1061,
+      337
+    ],
+    "size": 30
+  },
+  "how-to-learn-things": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      1072,
+      306
+    ],
+    "size": 30
+  },
+  "if-convinced": {
+    "node": "green",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      66,
+      280
+    ],
+    "size": 30
+  },
+  "what-is-intelligence?": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      824,
+      580
+    ],
+    "size": 30
+  },
+  "pain-and-death-are-bad": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      260,
+      205
+    ],
+    "size": 30
+  },
+  "Artificial-Intelligence": {
+    "node": "grey",
+    "segment": "grey",
+    "text": "yellow",
+    "pos": [
+      697,
+      490
+    ],
+    "size": 30
+  }
+}
