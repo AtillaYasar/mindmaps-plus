@@ -3,7 +3,7 @@
 - though i just want to say, the app works if you can deal with the slight jankiness, which is the reason i stopped updating it to begin with
 
 ## how to run
-- click the green   <code> v   thing
+- click the green   code v   thing
 - download ZIP
 - unzip
 - double click the file named app.py
