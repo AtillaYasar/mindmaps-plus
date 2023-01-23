@@ -1,0 +1,1 @@
+the content of this does nothing. the text between _ and .txt in the name dictates which mindmap is loaded by default

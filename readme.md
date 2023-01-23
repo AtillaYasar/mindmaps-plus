@@ -1,4 +1,9 @@
-# how to run
+# version 0.1
+- it's version 0.1, so dont expect good documentation, code, or explanations.
+- though i just want to say, the app works if you can learn how it works and deal with the slight jankiness, which is the reason i stopped updating it to begin with
+
+## how to run
+- click the green   code v   thing
 - download ZIP
 - unzip
 - double click the file named app.py
