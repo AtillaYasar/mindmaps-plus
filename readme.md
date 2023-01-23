@@ -13,6 +13,7 @@ or (if youre a NERD)
   + ![23rd-1](https://user-images.githubusercontent.com/112716905/214159839-0e51dabc-4644-4c8e-8175-dac852cbd4e7.png)
 - editor window:
   + ![23rd-2](https://user-images.githubusercontent.com/112716905/214159861-065b2946-f81f-42d9-9d33-9202c86382fc.png)
+  + ![23rd-3](https://user-images.githubusercontent.com/112716905/214160213-f52b58d2-4710-40b4-8ef4-eae7e964adb6.png)
 
 ## how to use
 - there are 2 windows, one is the editor, one has the mindmap, and a secret notepad-like thingy if you press f1, f2 or f3
