@@ -5,6 +5,8 @@ from tkinter.colorchooser import askcolor
 from tkinter import ttk
 import tkinter.font
 
+import shutil
+
 app_title = 'app_title'
 for f in os.listdir(os.getcwd()):
     if 'title_' in f:
@@ -511,6 +513,12 @@ class Window:
         elif 'change map' in command:
             new_tab = command.split(' ')[2]
             manager.change_tab(new_tab)
+        elif command == 'jan 24':
+            manager.create_mindmap()
+            def apply_rules(d):
+                return d
+
+            manager.change_tab('testing_here___one') # portal
         elif command == 'all links':
             self.command_output.insert('end', '\n'.join([f'{title} ' for title in window.network.nodes.keys()])+'\n')
         elif command == 'mass color':
@@ -834,7 +842,57 @@ class Manager:
         self.fix_linkinfo_conflicts()
         self.current_passage = ''
         self.autobackup = True
-        
+    
+    def create_mindmap(self):
+        '''
+        create new directory if necessary
+            (or delete stuff in old one?)
+        create new .tw
+        create nodeinfo and styleinfo
+        insert into self.all_info
+        insert into self.inter_list
+        '''
+        test_folder = 'testing_here'
+        for mindmap_name in ['one', 'two', 'three']:
+            info = {
+                'inter_list':[],
+                'nodeinfo_path':f'{test_folder}/{mindmap_name}/nodeinfo.json',
+                'styleinfo_path':f'{test_folder}/{mindmap_name}/styleinfo.json',
+                'twee_path':f'{test_folder}/{mindmap_name}/twee.tw'
+            }
+            os.mkdir(f'{test_folder}/{mindmap_name}')
+
+            def make_nodeinfo():
+                return {
+                    'thisis':'nodeinfo',
+                    'location':test_folder + mindmap_name
+                }
+
+            def make_styleinfo():
+                return {
+                    'thisis':'styleinfo',
+                    'location':test_folder + mindmap_name
+                }
+
+            def make_tw():
+                return '::this-is\nthe twee file of ' + test_folder + mindmap_name
+
+            # make objects
+            nodeinfo = make_nodeinfo()
+            styleinfo = make_styleinfo()
+            twee = make_tw()
+            
+            # create files from objects
+            make_json(nodeinfo, info['nodeinfo_path'])
+            make_json(styleinfo, info['styleinfo_path'])
+            text_create(info['twee_path'], twee)
+
+            self.all_info[f'{test_folder}___{mindmap_name}'] = info
+            self.all_info[f'{test_folder}___{mindmap_name}']['inter_list'] = self.interpret_tw(twee)
+
+        self.current_passage = 'testing_here___one'
+        self.inter_list = self.all_info[self.current_passage]['inter_list']
+
     def change_text(self, title, new_text):
         
         # helper function
@@ -1094,8 +1152,16 @@ changes title from old to new by:
                     'pos':(50,50),
                     'size':30}
 
-        # dealing with styleinfo
-        if 'styleinfo.json' in os.listdir(new_tab):
+        if '___' in new_tab:
+            exists = True
+        else:
+            if new_tab in os.listdir():
+                exists = True
+            else:
+                exists = True
+
+        # dealing with styleinfo            
+        if exists:
             styleinfo = open_json(self.all_info[self.current_tab]['styleinfo_path'])
         else:
             styleinfo = {d['title']:defaults for d in self.inter_list}
@@ -1352,6 +1418,7 @@ root.bind('<KeyPress-F5>', lambda *a:compile_tw())
 display_command_entry = tk.Entry(root, width=50)
 display_command_entry.grid(column=1)
 display_command_entry.bind('<Return>', window.process_command)
+display_command_entry.insert(0, 'jan 24')
 
 for name in manager.all_info:
     manager.all_info[name]['inter_list'] = manager.interpret_tw(text_read(manager.all_info[name]['twee_path']))
@@ -1376,10 +1443,25 @@ thingy = Thingy()
 
 root.mainloop()
 
+def clear_dir(to_clear):
+    # make sure it only has directories
+    for file_name in os.listdir(to_clear):
+        if os.path.isdir(f'{to_clear}/{file_name}'):
+            pass
+        else:
+            exit('can only have directories inside to_clear')
+            
+    for inner_dir in os.listdir(to_clear):
+        for file_name in os.listdir(f'{to_clear}/{inner_dir}'):
+            to_del = f'{to_clear}/{inner_dir}/{file_name}'
+            os.remove(to_del)
+            print('    ' + f'removed {to_del}')
+        os.rmdir(f'{to_clear}/{inner_dir}')
+        print(f'cleared and removed {to_clear}/{inner_dir}')
+        print()
 
-
-
-
+path = 'testing_here'
+clear_dir(path)
 
 
 
