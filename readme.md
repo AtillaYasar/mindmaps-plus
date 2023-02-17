@@ -3,3 +3,8 @@ the intention of this branch is to have something that gives additional control 
 
 # current status (may change daily)
 on pause
+
+## problems
+- needs a massive refactor.
+  + i was treating this branch as a hacky add-on, but that doesn't'work when the base code is hacky.
+- i need to get to a point where i can go from a list or dictionary to a graph.
