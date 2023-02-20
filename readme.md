@@ -4,7 +4,8 @@ the intention of this branch is to have something that gives additional control 
 # current status (may change daily)
 working on a big refactor
 
-## things I'm doing for the first time
+## big refactor, learning experience
+### things I'm doing for the first time
 - abstract base classes
 - inheritance and composition
 - splitting python code over multiple files
