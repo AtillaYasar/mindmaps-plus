@@ -8,6 +8,6 @@ working on a big refactor
 ### things I'm doing for the first time
 - abstract base classes
 - inheritance and composition
-- splitting python code over multiple files
+- having code seperated into multiple files  (yeah i know, big boi stuff right)
 - learning about design patterns and architecture (obviously not the first time I think about this stuff, but now I am explicitly learning about named concepts in this area)
-
+- indexing my code library
