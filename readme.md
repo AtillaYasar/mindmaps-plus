@@ -2,7 +2,7 @@
 the intention of this branch is to have something that gives additional control over the mindmap, with filters, toggles, multiple versions of a visualization, etc. 
 
 # current status (may change daily)
-working on a big refactor
+on pause
 
 ## big refactor, learning experience
 ### things I'm doing for the first time
